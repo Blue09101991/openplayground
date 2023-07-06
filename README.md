@@ -149,6 +149,3 @@ We use this for Huggingface Remote Inference models, the search endpoint is usef
 
 Instigated by Nat Friedman. Initial implementation by [Zain Huda](https://github.com/zainhuda) as a repl.it bounty. Many features and extensive refactoring by [Alex Lourenco](https://github.com/AlexanderLourenco).
 
-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
-
-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
